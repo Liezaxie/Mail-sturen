@@ -5,7 +5,7 @@ Spam je vrienden met de google API
 Deze handleiding laat je zien hoe je mijn Mail sturen project kan laten werken op jouw PC.
 
 ## Wat heb je nodig?
-Een Gmail account(kijk uit! spam kan er voor zorgen dat je acount geblokkeerd wordt, maak dus een nieuw account aan.)
+Een Gmail account(kijk uit! spam kan er voor zorgen dat je account geblokkeerd wordt, maak dus een nieuw account aan.)
 
 ## Installeren
 Je hebt de ezgmail package nodig verder hoef je alleen de code te runnen.
